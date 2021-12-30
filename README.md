@@ -16,16 +16,19 @@
 
 *Software Engineer Student from [VIT Chennai](https://chennai.vit.ac.in/)*
 
-*[Turbulent Logistician](https://www.16personalities.com/istj-personality)*, , *[Sentinel](https://www.16personalities.com/articles/roles-sentinels)*
+*[Turbulent Logistician](https://www.16personalities.com/istj-personality)*, *[Sentinel](https://www.16personalities.com/articles/roles-sentinels)*
 <br><br>
 
-- Coded my first Hello World in 2016. Since then, I've been dipping my toes on various domains and trying to figure out which is my cup of tea. 
-- Currently (2022), I'm trying my luck with Android Development.
+I coded my first "Hello World" in 2016. Since then, I've been dipping my toes on various domains and trying to figure out which is my cup of tea. Currently (2022), I'm trying my luck with Android Development. Previously worked on Machine Learning, Image Processing, Web Development, Cyber-Security, and Bigdata.
 
 <br>
 
-### Things I Code
+### Things I Code with
+<p>
+</p>
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
