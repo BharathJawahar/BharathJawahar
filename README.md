@@ -40,5 +40,9 @@ No Activity tracked this Week
  
 ![](https://github-readme-stats.vercel.app/api?username=bharathjawahar&show_icons=true&theme=tokyonight&count_private=true)
 <br>
+<p align="center">
+  <img alig src="https://github-profile-trophy.vercel.app/?username=bharathjawahar&column=6&rank=SSS,SS,S,AAA,AA,A,B,C" />
+</p>
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bharathjawahar&theme=tokyonight&langs_count=10&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
