@@ -30,11 +30,11 @@ I coded my first "Hello World" in 2016. Since then, I've been dipping my toes on
 ### Weekly Summary
 <!--START_SECTION:waka-->
 ```text
-HTML         6 hrs 24 mins   ██████████▓░░░░░░░░░░░░░░   42.78 % 
-Python       3 hrs 24 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.78 % 
-CSS          2 hrs 57 mins   █████░░░░░░░░░░░░░░░░░░░░   19.71 % 
-JavaScript   1 hr 12 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.08 % 
-Ruby         59 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.64 % 
+HTML         6 hrs 38 mins   ██████████▓░░░░░░░░░░░░░░   42.36 % 
+Python       3 hrs 24 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.76 % 
+CSS          2 hrs 57 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.91 % 
+JavaScript   1 hr 12 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.72 % 
+Ruby         59 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.34 % 
 ```
 <!--END_SECTION:waka-->
 
