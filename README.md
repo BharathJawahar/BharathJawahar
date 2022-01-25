@@ -30,8 +30,8 @@ I coded my first "Hello World" in 2016. Since then, I've been dipping my toes on
 ### Weekly Summary
 <!--START_SECTION:waka-->
 ```text
-Java     3 hrs 51 mins   ███████████████████████░░   92.64 % 
-XML      18 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.35 % 
+Java     4 hrs 1 min     ███████████████████████░░   92.14 % 
+XML      20 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.85 % 
 ```
 <!--END_SECTION:waka-->
 
