@@ -30,7 +30,7 @@ I coded my first "Hello World" in 2016. Since then, I've been dipping my toes on
 ### Weekly Summary
 <!--START_SECTION:waka-->
 ```text
-Ruby   1 hr 12 mins    █████████████████████████   100.00 % 
+Ruby   1 hr 6 mins     █████████████████████████   100.00 % 
 ```
 <!--END_SECTION:waka-->
 
