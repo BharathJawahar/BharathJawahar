@@ -5,9 +5,6 @@
 <a href="https://www.linkedin.com/in/bharath-jawahar/">
   <img align="left" alt="Bharath Jawahar | LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
-<a href="https://open.spotify.com/user/31mgwpm2ca2gfbjlrhoorbl3vxau">
-  <img align="left" alt="Bharath Jawahar | Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
-</a>
 <a href="https://t.me/Bharath_Jawahar">
   <img align="left" alt="Bharath Jawahar | Telegram" width="22px" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/24/000000/external-telegram-messenger-privately-held-company-with-cloud-based-instant-messaging-logo-color-tal-revivo.png" />
 </a>
