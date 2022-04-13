@@ -28,8 +28,8 @@ I coded my first "Hello World" in 2016. Since then, I've been dipping my toes on
 <!--START_SECTION:waka-->
 
 ```text
-Ruby     2 hrs 55 mins   ██████████████▒░░░░░░░░░░   57.83 %
-Python   2 hrs 7 mins    ██████████▓░░░░░░░░░░░░░░   42.16 %
+Python   2 hrs 20 mins   █████████████▓░░░░░░░░░░░   54.34 %
+Ruby     1 hr 58 mins    ███████████▒░░░░░░░░░░░░░   45.65 %
 Text     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
 ```
 
