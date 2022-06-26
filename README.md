@@ -28,7 +28,7 @@ I coded my first "Hello World" in 2016. Since then, I've been dipping my toes on
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+Other   2 hrs 1 min     █████████████░░░░░░░░░░░░   51.73 %
 ```
 
 <!--END_SECTION:waka-->
