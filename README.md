@@ -1,4 +1,4 @@
-### Hey, I am Bharath Jawahar <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+### Hey, I am Bharath Jawahar
 <a href="https://twitter.com/ibharathjawahar">
   <img align="left" alt="Bharath Jawahar | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
@@ -40,7 +40,7 @@ Other   2 hrs 7 mins    ██████████░░░░░░░░�
  
 ![](https://github-readme-stats.vercel.app/api?username=bharathjawahar&show_icons=true&theme=tokyonight&count_private=true)
 <br>
-<p align="center">
+<p align="left">
   <img src="https://github-profile-trophy.vercel.app/?username=bharathjawahar&column=6&rank=SSS,SS,S,AAA,AA,A,B,C&theme=tokyonight&count_private=true" />
 </p>
 
