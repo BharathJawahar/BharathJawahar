@@ -28,9 +28,9 @@ I coded my first "Hello World" in 2016. Since then, I've been dipping my toes on
 <!--START_SECTION:waka-->
 
 ```text
-C++          3 hrs 16 mins   ██████████░░░░░░░░░░░░░░░   40.58 %
-JavaScript   2 hrs 12 mins   ███████░░░░░░░░░░░░░░░░░░   27.50 %
-Other        2 hrs 8 mins    ██████▓░░░░░░░░░░░░░░░░░░   26.54 %
+JavaScript   6 hrs 14 mins   ██████████▓░░░░░░░░░░░░░░   42.74 %
+C++          3 hrs 16 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.35 %
+Other        2 hrs 17 mins   ████░░░░░░░░░░░░░░░░░░░░░   15.71 %
 ```
 
 <!--END_SECTION:waka-->
