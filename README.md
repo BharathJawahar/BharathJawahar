@@ -28,8 +28,8 @@ I coded my first "Hello World" in 2016. Since then, I've been dipping my toes on
 <!--START_SECTION:waka-->
 
 ```text
-Markdown   6 hrs 28 mins   ███████████░░░░░░░░░░░░░░   44.23 %
-Other      4 hrs 58 mins   ████████▒░░░░░░░░░░░░░░░░   33.98 %
+Markdown   8 hrs 9 mins    ████████████▒░░░░░░░░░░░░   49.16 %
+Other      4 hrs 58 mins   ███████▒░░░░░░░░░░░░░░░░░   29.93 %
 ```
 
 <!--END_SECTION:waka-->
