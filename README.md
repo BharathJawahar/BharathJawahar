@@ -28,11 +28,10 @@ I coded my first "Hello World" in 2016. Since then, I've been dipping my toes on
 <!--START_SECTION:waka-->
 
 ```text
-Markdown     3 hrs 44 mins   █████████░░░░░░░░░░░░░░░░   36.16 %
-JavaScript   2 hrs 30 mins   ██████░░░░░░░░░░░░░░░░░░░   24.13 %
-XML          1 hr 17 mins    ███░░░░░░░░░░░░░░░░░░░░░░   12.39 %
-HTML         57 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.26 %
-Other        45 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.33 %
+Markdown     2 hrs 59 mins   ██████████▓░░░░░░░░░░░░░░   42.85 %
+XML          1 hr 9 mins     ████░░░░░░░░░░░░░░░░░░░░░   16.57 %
+JavaScript   57 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.64 %
+Other        54 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   12.90 %
 ```
 
 <!--END_SECTION:waka-->
