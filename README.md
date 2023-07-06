@@ -28,7 +28,7 @@ I coded my first "Hello World" in 2016. Since then, I've been dipping my toes on
 <!--START_SECTION:waka-->
 
 ```txt
-JavaScript   33 mins         █████████████████████████   100.00 %
+JavaScript   16 mins         █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
