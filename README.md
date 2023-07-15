@@ -28,9 +28,7 @@ I coded my first "Hello World" in 2016. Since then, I've been dipping my toes on
 <!--START_SECTION:waka-->
 
 ```txt
-Python       19 mins         ██████████████████▓░░░░░░   74.81 %
-Other        6 mins          ██████▒░░░░░░░░░░░░░░░░░░   25.00 %
-JavaScript   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
