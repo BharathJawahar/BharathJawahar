@@ -28,11 +28,11 @@ I coded my first "Hello World" in 2016. Since then, I've been dipping my toes on
 <!--START_SECTION:waka-->
 
 ```txt
-YAML             56 mins         ██████████▒░░░░░░░░░░░░░░   41.34 %
-Markdown         48 mins         ████████▓░░░░░░░░░░░░░░░░   35.33 %
-Other            15 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.37 %
-Bash             13 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.08 %
-RobotFramework   2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.88 %
+YAML             59 mins         ██████████░░░░░░░░░░░░░░░   39.40 %
+Markdown         48 mins         ████████░░░░░░░░░░░░░░░░░   31.92 %
+Other            15 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.28 %
+Bash             13 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.10 %
+fish             11 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.60 %
 ```
 
 <!--END_SECTION:waka-->
