@@ -28,11 +28,11 @@ I coded my first "Hello World" in 2016. Since then, I've been dipping my toes on
 <!--START_SECTION:waka-->
 
 ```txt
-YAML             28 mins         ███████████████████▓░░░░░   78.38 %
-RobotFramework   6 mins          ████▓░░░░░░░░░░░░░░░░░░░░   18.91 %
-Other            0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.64 %
-VB.NET           0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.55 %
-Text             0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 %
+YAML             25 mins         ██████████████████████▒░░   89.02 %
+RobotFramework   2 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   08.31 %
+Other            0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.71 %
+VB.NET           0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.69 %
+Text             0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 %
 ```
 
 <!--END_SECTION:waka-->
