@@ -28,9 +28,8 @@ I coded my first "Hello World" in 2016. Since then, I've been dipping my toes on
 <!--START_SECTION:waka-->
 
 ```txt
-YAML             15 mins         ████████████████████████░   96.08 %
-XML              0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.76 %
-RobotFramework   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.16 %
+YAML   15 mins         ████████████████████████▒   97.24 %
+XML    0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.76 %
 ```
 
 <!--END_SECTION:waka-->
